@@ -1,5 +1,14 @@
 # Cocoa Workshop 강의노트 
 
+## Week 4
+*2020.11.28 코로나로 원격 진행*
+
+### Lecture - Auto Layout & Interface Builder
+
+### Workshop - Card Matching Game 만들기 part 2
+> UICollectionView FlowLayout 익숙해지기
+
+
 ## Week 3
 *2020.11.21 코로나로 원격 진행*
 
@@ -8,7 +17,7 @@
 - Foundation 과 UIKit (Cocoa Touch Framework)
 - 런타임 & 컴파일 타임에 대하여
 
-### Workshop - Card Matching Game 만들기 (Feat. MVC 패턴)
+### Workshop - Card Matching Game 만들기 part 1 (Feat. MVC 패턴)
 > 지난 주에 학습한 UICollectionView의 활용
 
 1. 요구 조건을 정리하고(기획) 함수 단위로 역할을 분리한 뒤(설계) 순차적으로 구현 (개발)
